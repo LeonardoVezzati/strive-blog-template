@@ -12,6 +12,7 @@ export default class BlogAuthor extends Component {
         <Col>
           <div>by</div>
           <h6>{name}</h6>
+          <h3>Leo Commit</h3>
         </Col>
       </Row>
     );
